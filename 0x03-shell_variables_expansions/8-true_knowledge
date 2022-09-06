@@ -1,2 +1,2 @@
 #!/bin/bash
-export AdditionN="128 +$TRUEKNOWLEDGE"   echo $AdditioN 
+TRUEKNOWLEDGE="217"  AdditionN="128 +$TRUEKNOWLEDGE"   echo $AdditioN 
